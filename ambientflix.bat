@@ -22,4 +22,4 @@ start gradlew run -P%REC_ENGINE_HOME%\recs.txt
 popd
 
 echo "Launching page..."
-start http://localhost:8080/recs/
+start http://localhost:8080/hello/
