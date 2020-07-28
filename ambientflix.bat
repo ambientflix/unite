@@ -1,4 +1,4 @@
-@echo on
+@echo off
 
 set DATA_COLLECTOR_HOME=c:\ambientflix\dataCollection
 set REC_ENGINE_HOME=c:\ambientflix\recEngine
